@@ -1,0 +1,14 @@
+# node_modules
+node_modules
+
+# Keep environment variables out of version control
+.env
+
+# Logs
+logs
+
+#dist
+dist
+
+# .DS_Store
+**/.DS_Store
